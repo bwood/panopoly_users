@@ -124,8 +124,7 @@ function panopoly_users_default_page_manager_handlers() {
       'logic' => 'and',
     ),
     'panels_breadcrumbs_state' => 1,
-    'panels_breadcrumbs_titles' => 'Log in
-Request Password',
+    'panels_breadcrumbs_titles' => 'Log in Request Password',
     'panels_breadcrumbs_paths' => 'user/login',
     'panels_breadcrumbs_home' => 1,
   );
