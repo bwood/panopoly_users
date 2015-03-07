@@ -1,9 +1,13 @@
 <?php
 
-include_once('panopoly_users.features.inc');
+/**
+ * @file
+ * Common features functionality
+ */
+include_once 'panopoly_users.features.inc';
 
 /**
- * Implementation of hook_apps_app_info()
+ * Implements hook_apps_app_info()
  */
 function panopoly_users_apps_app_info() {
   return array(
