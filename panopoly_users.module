@@ -4,6 +4,7 @@
  * @file
  * Common features functionality
  */
+
 include_once 'panopoly_users.features.inc';
 
 /**
